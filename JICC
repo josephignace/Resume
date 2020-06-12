@@ -1,0 +1,425 @@
+---
+title: "José Ignacio Cuitún Coronado Resume"
+author: JICC
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+<font size="1.9">
+
+- <i class="fa fa-envelope"></i> J.I.Cuitun-Coronado@liverpool.ac.uk
+- <i class="fa fa-github"></i> [github.com/josephignace](https://github.com/josephignace)
+- <i class="fa fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/josé-ignacio-cuitún-coronado-82a580a6) 
+- For more information, please contact me via email.
+
+Research Interest {#skills}
+--------------------------------------------------------------------------------
+
+<font size="2.5">
+
+- Applied statistics in health, behavioral and social sciences.
+
+- Statistical analysis of cross-sectional and longitudinal data.
+
+- Missing data analysis.
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- R
+- STATA
+- SPSS
+- Statgraphics
+- Excel
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+Main
+================================================================================
+
+José I. Cuitún Coronado {#title} 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+### Postdoctoral Research Associated
+
+Currently working on harnessing electronic health records (EHRs) and cardiovascular disease health problems.
+
+I primarily use quantitative methods applied to epidemiological data sets.  
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Social Statistics, Ph.D.
+School of Social Sciences
+
+University of Manchester, U.K.
+
+2019
+
+Thesis: Modelling and association of stress-related biomarkers and Socioeconomic status over the working life-course. 
+
+### Statistics, PG.Dip.
+School of Mathematics
+
+Autonomous University of Yucatan, México
+
+2013
+
+### Applied Psychology in School Psychology, M.S.
+School of Psychology
+
+Autonomous University of Yucatan, México
+
+2012
+
+Thesis: Emotional Regulation of Anger in High-School Students.
+
+### Psychology, B.S.
+School of Psychology
+
+Autonomous University of Yucatan, México 
+
+2009
+
+Thesis: Emotional Expression in College Students.
+
+Teaching Accreditation {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Advance Higher Education (Advance HE)
+
+N/A
+
+University of Manchester 
+
+2019
+
+Associate Fellow by the Leadership in Education Awards Programme (LEAP).
+
+Diploma / Courses {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Continuing Education (Training).
+
+School of Mathematics
+
+Autonomous University of Yucatan
+
+2016
+
+Time Series Analysis.
+
+### Diploma. 
+Complutense Summer Course
+
+University of Madrid Complutense
+
+2012
+
+Effective treatments in the Psychopathology of emotions, Stress and Health.
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Postdoctoral Research Associated
+Institute of Population Health Sciences, Public Health and Policy
+
+University of Liverpool
+
+2020 - Currently
+
+TRAP Project: Harnessing electronic health record data for improving outcomes in cardiovascular diseases.
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+::: aside
+
+### Languages
+
+- Spanish: Native
+- English: Proficient
+- French: Intermediate
+- German: Basic
+
+:::
+
+### Department of Social Psychology, internship
+School of Psychology
+
+Autonomous University of Yucatan
+
+2008 - 2009
+
+Translation of articles and text from English to Spanish on the topics of: Assertiveness, Sexuality and Transcultural Psychology.
+
+Preparation and Correction of Charts and Tables in the Book: Family, Upbringing and Personality. An Etnopsychological Approach.
+
+Data Capture in the Pre-diagnosis and Diagnosis Stages on the Study of Suicide in the Yucatan State.
+
+Application, Capture and Interpretation of the Semantic Network on the topics of: Assertiveness and Emotional Regulation, Emotional Intelligence, Control and Coping.
+
+Application, Capture and Interpretation of the Scales: Couple Relationship and Parents Emotions.
+
+Involvement on the Project Emotional Regulation and Mental Health in the Romantic Relationship.	
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### University Teacher
+
+N/A
+
+University of Liverpool, U.K. 
+
+2019 - 2020
+
+*BA in Political Sciences*
+
+Statistical and data analysis skills.
+
+::: aside
+
+### Software 
+
+- Stata
+:::
+
+### Postgraduate Teaching Assistant
+
+N/A
+
+University of Manchester, U.K.
+
+2018 - 2019
+
+*BA Social Sciences*
+
+Research Design and Statistical Inference.
+
+Essentials of Survey Design and Analysis.
+
+*MSc Social Research Methods and Statistics*
+
+Applied Statistics for Social Scientists.
+
+Longitudinal Data Analysis.
+
+::: aside
+
+### Software 
+
+- Excel
+- SPSS
+- R
+:::
+
+### Postgraduate Teaching Assistant
+
+N/A
+
+University of Manchester, U.K.
+
+2017 - 2018
+
+*BA Social Sciences*
+
+Research Design and Statistical Inference
+
+Essentials of Survey Design and Analysis
+
+Applied Statistics for Social Scientists
+
+*MSc Social Research Methods and Statistics*
+
+Introduction to Statistical Modelling.
+
+Longitudinal Data Analysis.
+
+::: aside
+
+### Software 
+
+- Excel
+- SPSS
+- R
+:::
+
+### Lecturer
+School of Criminology
+
+College of University Studies, Mérida, Yucatán, México
+
+2015 - 2016
+
+*BA in Criminology*
+
+Research Methodology  
+
+Statistics 
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Allostatic Load and Effort-Reward Imbalance: Associations over the Working-Career.
+
+Int J Environ Res Public Health. 2018 Jan 24;15(2):191.
+
+N/A
+
+2018
+
+**Cuitún Coronado, J.**, Chandola, T., & Steptoe, A.  
+
+### Resilience in middle school oaxaqueños students.
+
+Revista Psicumex, July-December, 6(2), 39-49.
+
+N/A
+
+2016
+
+Becerra M. D. I., **Cuitún, C. J. I.** & Mezquita, H. Y. N.
+
+### Emotional Expression in College Students.
+
+Social Psychology in Mexico Vol. XIII. Mexican Association of Social Psychology, 619-625.
+
+N/A
+
+2010
+
+**Cuitún, C., J. I.**, Flores, G. M. M. & Sánchez, A. R.   
+
+Oral presentations {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Allostatic Load and Effort-Reward Imbalance: Associations over the Working-Career.
+
+Annual Scientific Meeting of the Society of Social Medicine.
+
+N/A
+
+2018
+
+### Allostatic Load and Effort-Reward Imbalance: Evidence from the English Longitudinal Study of Ageing (ELSA).
+
+Nordic-UK Workshop on Life-Course Research in Health and Disease at the University of Helsinki.
+
+N/A
+
+2018
+
+### Validation of Grit Scale and its Relationship with the Academic Performance.
+
+First Congress of the National Council of Education, Research and Development. Mérida, Yucatán, México 
+
+N/A
+
+2012
+
+### Emotional Expression in College Students.
+
+XIII Mexican Congress of Social Psychology and V Mexican Congress of Personal Relationships. Sonora, Mexico
+
+N/A
+
+2010
+
+### Emotional Regulation and Control: Their Psychological Meaning in College Students.
+
+School Psychologist in the State of Yucatan, A. C. Mérida, Yucatán, México
+
+N/A
+
+2009
+
+### Emotional Regulation, Coping, Control and Emotional Intelligence: Their Psychological Meaning in College Students.
+
+Third Student Research Colloquium in Psychology in the School of Psychology at Autonomous University of Yucatan. Mérida, Yucatán, México
+
+N/A
+
+2009
+
+### The Campus Paper on Teaching and Research Training in College Students.
+
+Second Student Research Colloquium in Psychology in the School of Psychology at Autonomous University of Yucatan. Mérida, Yucatán, México
+
+N/A
+
+2008
+
+Poster {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Positive and Negative Emotions in College Students.
+
+XXXVI Congress National Council for Teaching and Research in Psychology. 
+
+N/A
+
+2009
+
+### Emotional Regulation, Coping, Control and Emotional Intelligence: Their Psychological Meaning in College Students.
+
+XVII Mexican Psychological Congress of the Mexican Psychological Society A. C.
+
+N/A
+
+2009
+
+Service and Leadership {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### PhD Student Representative.
+School of Social Sciences
+
+University of Manchester, U.K.
+
+2016 - 2018
+
+### Committee member.
+Society of Social Medicine and Population Health.
+
+United Kingdom
+
+2016 - 2018
+
+### Local Officer (Annual Scientific Meeting)
+Society of Social Medicine and Population Health 
+
+University of Manchester, U.K.
+
+2017
+
+### Human Resources Assistant.
+Causas Justas de Yucatán, A. C.
+
+Mérida, Yucatán, México
+
+2015
+
+### Academic Council member
+School of Mathematics
+
+Autonomous University of Yucatan
+
+2013
