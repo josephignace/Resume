@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
@@ -105,7 +105,7 @@ Teaching Accreditation {data-icon=graduation-cap data-concise=true}
 
 ### Advance Higher Education (Advance HE)
 
-N/A
+School of Social Sciences
 
 University of Manchester 
 
@@ -127,6 +127,7 @@ Autonomous University of Yucatan
 Time Series Analysis.
 
 ### Diploma. 
+
 Complutense Summer Course
 
 University of Madrid Complutense
@@ -139,6 +140,7 @@ Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### Postdoctoral Research Associated
+
 Institute of Population Health Sciences, Public Health and Policy
 
 University of Liverpool
@@ -315,7 +317,7 @@ Oral presentations {data-icon=chalkboard-teacher}
 
 Annual Scientific Meeting of the Society of Social Medicine.
 
-N/A
+University of Glasgow, Scotland, UK
 
 2018
 
@@ -323,47 +325,47 @@ N/A
 
 Nordic-UK Workshop on Life-Course Research in Health and Disease at the University of Helsinki.
 
-N/A
+University of Helsinki, Finland
 
 2018
 
 ### Validation of Grit Scale and its Relationship with the Academic Performance.
 
-First Congress of the National Council of Education, Research and Development. Mérida, Yucatán, México 
+First Congress of the National Council of Education, Research and Development.  
 
-N/A
+Mérida, Yucatán, México
 
 2012
 
 ### Emotional Expression in College Students.
 
-XIII Mexican Congress of Social Psychology and V Mexican Congress of Personal Relationships. Sonora, Mexico
+XIII Mexican Congress of Social Psychology and V Mexican Congress of Personal Relationships. 
 
-N/A
+Universidad de Sonora, México
 
 2010
 
 ### Emotional Regulation and Control: Their Psychological Meaning in College Students.
 
-School Psychologist in the State of Yucatan, A. C. Mérida, Yucatán, México
+School Psychologist in the State of Yucatan, A. C. 
 
-N/A
+Mérida, Yucatán, México
 
 2009
 
 ### Emotional Regulation, Coping, Control and Emotional Intelligence: Their Psychological Meaning in College Students.
 
-Third Student Research Colloquium in Psychology in the School of Psychology at Autonomous University of Yucatan. Mérida, Yucatán, México
+Third Student Research Colloquium in Psychology.
 
-N/A
+School of Psychology Autonomous University of Yucatan, México
 
 2009
 
 ### The Campus Paper on Teaching and Research Training in College Students.
 
-Second Student Research Colloquium in Psychology in the School of Psychology at Autonomous University of Yucatan. Mérida, Yucatán, México
+Second Student Research Colloquium in Psychology. 
 
-N/A
+School of Psychology at Autonomous University of Yucatan, México
 
 2008
 
@@ -374,7 +376,7 @@ Poster {data-icon=chalkboard-teacher}
 
 XXXVI Congress National Council for Teaching and Research in Psychology. 
 
-N/A
+Autonomous University of Guerrero, México
 
 2009
 
@@ -382,7 +384,7 @@ N/A
 
 XVII Mexican Psychological Congress of the Mexican Psychological Society A. C.
 
-N/A
+Autonomous University of Cuernava, Morelos, México
 
 2009
 
@@ -417,7 +419,7 @@ Mérida, Yucatán, México
 
 2015
 
-### Academic Council member
+### Academic Council Member
 School of Mathematics
 
 Autonomous University of Yucatan
